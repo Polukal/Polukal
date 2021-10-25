@@ -39,18 +39,40 @@ h3 {
 
 }
 
-a{
+a:hover{
+  color: #eaf6f6;
+}
+
+.exp-sentence{
+  margin-left: 5%;
+}
+
+.exp-row{
+  margin-left: 20%;
+  margin-right: 25%;
+}
+
+.exp-header{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-size: large;
+  font-weight: bold;
+  margin-left: 10%;
+  margin-right: 24%;
+  float:left;
+}
+
+#special1{
+  margin-left: 0;
+  margin-right: 3%;
+}
+
+.footer-link{
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
 }
-
-a:hover{
-  color: #eaf6f6;
-}
-
-
 
 .skill-row{
   width:50%;
@@ -74,7 +96,7 @@ a:hover{
   color: #EAF6F6;
   margin: 0;
   font-size: 0.75rem;
-  padding: 40px 0 0 0; 
+  padding: 40px 0 0 0;
 }
 
 .top-cloud {
