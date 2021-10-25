@@ -62,9 +62,20 @@ a:hover{
   float:left;
 }
 
+.edu-header{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-size: large;
+  font-weight: bold;
+}
+
 #special1{
   margin-left: 0;
   margin-right: 3%;
+}
+
+.date{
+  font-weight: bold;
 }
 
 .footer-link{
